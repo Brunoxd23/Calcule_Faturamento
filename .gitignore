@@ -1,10 +1,12 @@
+# Ambiente virtual
+venv/
+.env
+
+
 # Arquivos gerados
 *.csv
 *.xlsx
 
-# Ambiente virtual
-venv/
-env/
 
 # Cache Python
 __pycache__/
