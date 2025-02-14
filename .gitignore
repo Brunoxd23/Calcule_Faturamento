@@ -1,0 +1,16 @@
+# Arquivos gerados
+*.csv
+*.xlsx
+
+# Ambiente virtual
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.vscode/
+.idea/ 
