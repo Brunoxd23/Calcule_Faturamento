@@ -42,7 +42,17 @@ Este script analisa os dados e gera um relatório Excel com três abas:
 
 ## Como Usar
 
-1. Instale as dependências necessárias:
+1. Primeiro, crie um ambiente virtual e ative-o:
+
+2. # Windows
+python -m venv venv
+venv\Scripts\activate
+
+# Linux/Mac
+python -m venv venv
+source venv/bin/activate
+
+Instale as dependências necessárias:
 
 pip install pandas openpyxl
 
